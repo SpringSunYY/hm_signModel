@@ -4,7 +4,7 @@ package com.yy.pattern.singleton.demo4;
  * @version v1.0
  * @ClassName: Singleton
  * @Description: 双重检查锁方式
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Singleton {
 

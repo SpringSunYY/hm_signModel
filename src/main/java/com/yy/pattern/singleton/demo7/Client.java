@@ -13,7 +13,7 @@ import java.io.ObjectOutputStream;
  *      测试使用序列化破坏单例模式
  *
  *      桌面路径： C:\Users\Think\Desktop
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Client {
     public static void main(String[] args) throws Exception {

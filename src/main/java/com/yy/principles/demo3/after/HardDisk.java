@@ -4,7 +4,7 @@ package com.yy.principles.demo3.after;
  * @version v1.0
  * @ClassName: HardDisk
  * @Description: 硬盘接口
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public interface HardDisk {
 

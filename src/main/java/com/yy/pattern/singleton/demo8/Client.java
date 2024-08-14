@@ -7,7 +7,7 @@ import java.lang.reflect.Constructor;
  * @ClassName: Client
  * @Description:
  *      测试使用反射破坏单例模式
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Client {
     public static void main(String[] args) throws Exception {

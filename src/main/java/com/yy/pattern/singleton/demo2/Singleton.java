@@ -6,7 +6,7 @@ package com.yy.pattern.singleton.demo2;
  * @Description:
  *
  *      饿汉式 ： 静态代码块
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Singleton {
 

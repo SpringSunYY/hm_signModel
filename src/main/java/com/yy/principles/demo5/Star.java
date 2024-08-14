@@ -4,7 +4,7 @@ package com.yy.principles.demo5;
  * @version v1.0
  * @ClassName: Star
  * @Description: 明星类
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Star {
     private String name;

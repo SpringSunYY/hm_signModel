@@ -4,7 +4,7 @@ package com.yy.principles.demo4.before;
  * @version v1.0
  * @ClassName: SafetyDoor
  * @Description: 安全门接口
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public interface SafetyDoor {
 

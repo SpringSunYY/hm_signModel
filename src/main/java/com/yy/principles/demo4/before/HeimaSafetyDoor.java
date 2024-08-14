@@ -4,7 +4,7 @@ package com.yy.principles.demo4.before;
  * @version v1.0
  * @ClassName: HeimaSafetyDoor
  * @Description: 黑马品牌的安全门
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class HeimaSafetyDoor implements SafetyDoor {
     public void antiTheft() {

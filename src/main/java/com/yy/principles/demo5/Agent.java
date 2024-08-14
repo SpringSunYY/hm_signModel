@@ -4,7 +4,7 @@ package com.yy.principles.demo5;
  * @version v1.0
  * @ClassName: Agent
  * @Description: 经纪人类
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Agent {
 

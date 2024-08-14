@@ -4,7 +4,7 @@ package com.yy.principles.demo2.after;
  * @version v1.0
  * @ClassName: Rectangle
  * @Description: 长方形类
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Rectangle implements Quadrilateral {
 

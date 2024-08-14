@@ -4,7 +4,7 @@ package com.yy.principles.demo3.before;
  * @version v1.0
  * @ClassName: XiJieHardDisk
  * @Description: 希捷硬盘
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class XiJieHardDisk {
 

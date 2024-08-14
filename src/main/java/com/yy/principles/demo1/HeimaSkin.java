@@ -4,7 +4,7 @@ package com.yy.principles.demo1;
  * @version v1.0
  * @ClassName: HeimaSkin
  * @Description: 黑马程序员皮肤
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class HeimaSkin extends AbstractSkin {
 

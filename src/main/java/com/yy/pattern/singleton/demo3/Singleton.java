@@ -6,7 +6,7 @@ package com.yy.pattern.singleton.demo3;
  * @Description:
  *
  *      懒汉式
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Singleton {
 

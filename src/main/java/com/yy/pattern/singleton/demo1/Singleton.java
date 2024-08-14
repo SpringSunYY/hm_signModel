@@ -5,7 +5,7 @@ package com.yy.pattern.singleton.demo1;
  * @ClassName: Singleton
  * @Description:
  *      饿汉式： 静态成员变量
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Singleton {
 

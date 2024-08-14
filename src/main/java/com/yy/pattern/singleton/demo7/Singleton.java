@@ -6,7 +6,7 @@ import java.io.Serializable;
  * @version v1.0
  * @ClassName: Singleton
  * @Description: 静态内部类方式
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Singleton implements Serializable {
 

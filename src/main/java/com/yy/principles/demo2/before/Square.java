@@ -4,7 +4,7 @@ package com.yy.principles.demo2.before;
  * @version v1.0
  * @ClassName: Square
  * @Description: 正方形类
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class Square extends Rectangle {
 

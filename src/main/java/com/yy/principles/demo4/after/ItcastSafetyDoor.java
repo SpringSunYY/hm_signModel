@@ -4,7 +4,7 @@ package com.yy.principles.demo4.after;
  * @version v1.0
  * @ClassName: ItcastSafetyDoor
  * @Description: 传智安全门
- * @Author: 黑马程序员
+ * @Author: YY
  */
 public class ItcastSafetyDoor implements AntiTheft,Fireproof {
     public void antiTheft() {
