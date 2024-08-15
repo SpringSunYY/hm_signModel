@@ -1,5 +1,7 @@
 package com.yy.principles.demo3.after;
 
+import com.yy.principles.demo3.after.Cpu;
+
 /**
  * @version v1.0
  * @ClassName: IntelCpu

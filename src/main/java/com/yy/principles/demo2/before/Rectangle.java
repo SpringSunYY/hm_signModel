@@ -1,10 +1,12 @@
 package com.yy.principles.demo2.before;
 
 /**
- * @version v1.0
- * @ClassName: Rectangle
- * @Description: 长方形类
+ * @Project: design_patterns
+ * @Package: com.yy.principles.demo2.before
  * @Author: YY
+ * @CreateTime: 2024-08-15  14:15
+ * @Description: Rectangle 长方形类
+ * @Version: 1.0
  */
 public class Rectangle {
     private double length;

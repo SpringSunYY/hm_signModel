@@ -1,5 +1,6 @@
 package com.yy.principles.demo1;
 
+
 /**
  * @version v1.0
  * @ClassName: SougouInput

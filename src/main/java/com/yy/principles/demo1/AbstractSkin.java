@@ -1,13 +1,15 @@
 package com.yy.principles.demo1;
 
 /**
- * @version v1.0
- * @ClassName: AbstractSkin
- * @Description: æŠ½è±¡çš®è‚¤ç±»
+ * @Project: design_patterns
+ * @Package: com.yy.principles.demo1
  * @Author: YY
+ * @CreateTime: 2024-08-15  13:34
+ * @Description: AbstractSkin ³éÏóÆ¤·ôÀà
+ * @Version: 1.0
  */
 public abstract class AbstractSkin {
 
-    //æ˜¾ç¤ºçš„æ–¹æ³•
+    //ÏÔÊ¾µÄ·½·¨
     public abstract void display();
 }
