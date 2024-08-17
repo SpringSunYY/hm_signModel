@@ -1,7 +1,5 @@
 package com.yy.principles.demo1;
 
-import com.itheima.principles.demo1.AbstractSkin;
-
 /**
  * @version v1.0
  * @ClassName: DefaultSkin

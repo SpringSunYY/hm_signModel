@@ -1,17 +1,24 @@
 package com.yy.principles.demo3.before;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo3.before
+ * @version v1.0
+ * @ClassName: Computer
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
- * @CreateTime: 2024-08-15  14:43
- * @Description: Computer
- * @Version: 1.0
  */
 public class Computer {
+
     private XiJieHardDisk hardDisk;
     private IntelCpu cpu;
     private KingstonMemory memory;
+
+    public XiJieHardDisk getHardDisk() {
+        return hardDisk;
+    }
+
+    public void setHardDisk(XiJieHardDisk hardDisk) {
+        this.hardDisk = hardDisk;
+    }
 
     public IntelCpu getCpu() {
         return cpu;
@@ -29,19 +36,11 @@ public class Computer {
         this.memory = memory;
     }
 
-    public XiJieHardDisk getHardDisk() {
-        return hardDisk;
-    }
-
-    public void setHardDisk(XiJieHardDisk hardDisk) {
-        this.hardDisk = hardDisk;
-    }
-
     public void run() {
-        System.out.println("计算机工作");
+        System.out.println("运行计算机");
+        String data = hardDisk.get();
+        System.out.println("从硬盘上获取的数据是：" + data);
         cpu.run();
         memory.save();
-        String data = hardDisk.get();
-        System.out.println("从硬盘中获取的数据为：" + data);
     }
 }

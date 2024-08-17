@@ -1,14 +1,13 @@
 package com.yy.principles.demo3.before;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo3.before
+ * @version v1.0
+ * @ClassName: IntelCpu
+ * @Description: Intel cpu
  * @Author: YY
- * @CreateTime: 2024-08-15  14:41
- * @Description: IntelCpu
- * @Version: 1.0
  */
-public class IntelCpu implements Cpu {
+public class IntelCpu {
+
     public void run() {
         System.out.println("使用Intel处理器");
     }

@@ -1,12 +1,10 @@
 package com.yy.principles.demo4.after;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo4.after
+ * @version v1.0
+ * @ClassName: AntiTheft
+ * @Description: 防盗接口
  * @Author: YY
- * @CreateTime: 2024-08-15  20:29
- * @Description: AntiTheft
- * @Version: 1.0
  */
 public interface AntiTheft {
     void antiTheft();

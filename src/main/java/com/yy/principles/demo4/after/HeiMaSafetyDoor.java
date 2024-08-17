@@ -1,6 +1,5 @@
 package com.yy.principles.demo4.after;
 
-
 /**
  * @version v1.0
  * @ClassName: HeiMaSafetyDoor

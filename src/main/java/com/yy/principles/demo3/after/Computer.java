@@ -1,14 +1,13 @@
 package com.yy.principles.demo3.after;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo3.after
+ * @version v1.0
+ * @ClassName: Computer
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
- * @CreateTime: 2024-08-15  14:48
- * @Description: Computer
- * @Version: 1.0
  */
 public class Computer {
+
     private HardDisk hardDisk;
     private Cpu cpu;
     private Memory memory;
@@ -37,6 +36,7 @@ public class Computer {
         this.memory = memory;
     }
 
+    //运行计算机
     public void run() {
         System.out.println("运行计算机");
         String data = hardDisk.get();

@@ -1,14 +1,13 @@
 package com.yy.principles.demo2.before;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo2.before
+ * @version v1.0
+ * @ClassName: Square
+ * @Description: 正方形类
  * @Author: YY
- * @CreateTime: 2024-08-15  14:16
- * @Description: Square 正方形类
- * @Version: 1.0
  */
 public class Square extends Rectangle {
+
     @Override
     public void setLength(double length) {
         super.setLength(length);
@@ -17,7 +16,7 @@ public class Square extends Rectangle {
 
     @Override
     public void setWidth(double width) {
-        super.setWidth(width);
         super.setLength(width);
+        super.setWidth(width);
     }
 }

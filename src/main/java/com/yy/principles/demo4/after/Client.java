@@ -1,17 +1,16 @@
 package com.yy.principles.demo4.after;
 
-
-import com.itheima.principles.demo4.before.HeimaSafetyDoor;
+import com.yy.principles.demo4.before.HeimaSafetyDoor;
 
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description: 测试
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
  */
 public class Client {
     public static void main(String[] args) {
-        //创建黑马安全门对象 创建安全门对象
+        //创建黑马安全门对象
         HeimaSafetyDoor door = new HeimaSafetyDoor();
         //调用功能
         door.antiTheft();

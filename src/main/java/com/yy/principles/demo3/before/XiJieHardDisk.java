@@ -1,14 +1,13 @@
 package com.yy.principles.demo3.before;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo3.before
+ * @version v1.0
+ * @ClassName: XiJieHardDisk
+ * @Description: 希捷硬盘
  * @Author: YY
- * @CreateTime: 2024-08-15  14:39
- * @Description: XiJieHardDisk
- * @Version: 1.0
  */
 public class XiJieHardDisk {
+
     //存储数据的方法
     public void save(String data) {
         System.out.println("使用希捷硬盘存储数据为：" + data);

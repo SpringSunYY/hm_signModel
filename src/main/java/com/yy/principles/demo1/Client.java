@@ -1,10 +1,9 @@
 package com.yy.principles.demo1;
 
-
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description: 实现
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
  */
 public class Client {
@@ -13,15 +12,10 @@ public class Client {
         SougouInput input = new SougouInput();
         //2,创建皮肤对象
         //DefaultSkin skin = new DefaultSkin();
-        YYSkin skin = new YYSkin();
+        HeimaSkin skin = new HeimaSkin();
         //3,将皮肤设置到输入法中
         input.setSkin(skin);
-        //4,显示皮肤
-        input.display();
 
-        LzSkin lzSkin = new LzSkin();
-        //3,将皮肤设置到输入法中
-        input.setSkin(lzSkin);
         //4,显示皮肤
         input.display();
     }

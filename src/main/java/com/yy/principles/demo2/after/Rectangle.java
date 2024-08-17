@@ -1,14 +1,13 @@
 package com.yy.principles.demo2.after;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo2.after
+ * @version v1.0
+ * @ClassName: Rectangle
+ * @Description: 长方形类
  * @Author: YY
- * @CreateTime: 2024-08-15  14:27
- * @Description: Rectangle 长方形
- * @Version: 1.0
  */
 public class Rectangle implements Quadrilateral {
+
     private double length;
     private double width;
 

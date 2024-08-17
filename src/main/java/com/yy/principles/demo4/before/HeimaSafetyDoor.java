@@ -1,14 +1,12 @@
 package com.yy.principles.demo4.before;
 
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo4.before
+ * @version v1.0
+ * @ClassName: HeimaSafetyDoor
+ * @Description: 黑马品牌的安全门
  * @Author: YY
- * @CreateTime: 2024-08-15  20:20
- * @Description: YYSafetyDoor 安全门接口
- * @Version: 1.0
  */
-public class YYSafetyDoor implements SafetyDoor{
+public class HeimaSafetyDoor implements SafetyDoor {
     public void antiTheft() {
         System.out.println("防盗");
     }

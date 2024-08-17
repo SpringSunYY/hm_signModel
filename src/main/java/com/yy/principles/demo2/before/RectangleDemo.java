@@ -1,12 +1,9 @@
 package com.yy.principles.demo2.before;
 
-import com.yy.principles.demo2.before.Rectangle;
-import com.yy.principles.demo2.before.Square;
-
 /**
  * @version v1.0
  * @ClassName: RectangleDemo
- * @Description: 测试
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
  */
 public class RectangleDemo {

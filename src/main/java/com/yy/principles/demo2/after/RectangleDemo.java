@@ -1,38 +1,24 @@
 package com.yy.principles.demo2.after;
 
-import com.yy.principles.demo2.after.Rectangle;
-import com.yy.principles.demo2.after.Square;
-
 /**
- * @Project: design_patterns
- * @Package: com.yy.principles.demo2.after
+ * @version v1.0
+ * @ClassName: RectangleDemo
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
- * @CreateTime: 2024-08-15  14:29
- * @Description: RectangleDemo
- * @Version: 1.0
  */
 public class RectangleDemo {
     public static void main(String[] args) {
         //创建长方形对象
         Rectangle r = new Rectangle();
-        //设置长和宽
         r.setLength(20);
         r.setWidth(10);
-        //调用resize方法进行扩宽
+        //调用方法进行扩宽操作
         resize(r);
-        printLengthAndWidth(r);
 
-        System.out.println("==================");
-        //创建正方形对象
-        Square s = new Square();
-        //设置长和宽
-        s.setSide(10);
-        //调用resize方法进行扩宽
-//        resize(s);
-//        printLengthAndWidth(s);
+        printLengthAndWidth(r);
     }
 
-    //扩宽方法
+    //扩宽的方法
     public static void resize(Rectangle rectangle) {
         //判断宽如果比长小，进行扩宽的操作
         while(rectangle.getWidth() <= rectangle.getLength()) {
@@ -41,8 +27,8 @@ public class RectangleDemo {
     }
 
     //打印长和宽
-    public static void printLengthAndWidth(Rectangle rectangle) {
-        System.out.println(rectangle.getLength());
-        System.out.println(rectangle.getWidth());
+    public static void printLengthAndWidth(Quadrilateral quadrilateral) {
+        System.out.println(quadrilateral.getLength());
+        System.out.println(quadrilateral.getWidth());
     }
 }

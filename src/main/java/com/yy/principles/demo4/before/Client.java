@@ -1,16 +1,14 @@
 package com.yy.principles.demo4.before;
 
-import com.yy.principles.demo4.before.YYSafetyDoor;
-
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description: 测试
+ * @Description: TODO(一句话描述该类的功能)
  * @Author: YY
  */
 public class Client {
     public static void main(String[] args) {
-        YYSafetyDoor door = new YYSafetyDoor();
+        HeimaSafetyDoor door = new HeimaSafetyDoor();
         door.antiTheft();
         door.fireProof();
         door.waterProof();
