@@ -15,6 +15,10 @@ public class Client {
                 .memory("金士顿内存条")
                 .mainboard("华硕主板")
                 .build();
+
+
+
+
         System.out.println(phone);
     }
 }
