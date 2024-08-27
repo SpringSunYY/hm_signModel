@@ -3,7 +3,7 @@ package com.yy.pattern.factory.abstract_factory;
 /**
  * @version v1.0
  * @ClassName: DessertFactory
- * @Description: TODO(一句话描述该类的功能)
+ * @Description: 
  * @Author: YY
  */
 public interface DessertFactory {

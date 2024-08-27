@@ -3,7 +3,7 @@ package com.itheima.principles.demo3.after;
 /**
  * @version v1.0
  * @ClassName: ComputerDemo
- * @Description: TODO(一句话描述该类的功能)
+ * @Description: 
  * @Author: YY
  */
 public class ComputerDemo {

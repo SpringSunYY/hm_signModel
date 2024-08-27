@@ -3,7 +3,7 @@ package com.yy.principles.demo4.after;
 /**
  * @version v1.0
  * @ClassName: HeiMaSafetyDoor
- * @Description: TODO(一句话描述该类的功能)
+ * @Description: 
  * @Author: YY
  */
 public class HeiMaSafetyDoor implements AntiTheft, Fireproof, Waterproof {

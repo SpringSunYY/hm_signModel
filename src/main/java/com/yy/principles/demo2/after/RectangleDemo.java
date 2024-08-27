@@ -3,7 +3,7 @@ package com.yy.principles.demo2.after;
 /**
  * @version v1.0
  * @ClassName: RectangleDemo
- * @Description: TODO(一句话描述该类的功能)
+ * @Description: 
  * @Author: YY
  */
 public class RectangleDemo {
