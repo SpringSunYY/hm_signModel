@@ -16,6 +16,8 @@ public class Client {
                 .mainboard("华硕主板")
                 .build();
 
+
+
         System.out.println(phone);
     }
 }
