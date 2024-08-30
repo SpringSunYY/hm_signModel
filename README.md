@@ -2347,7 +2347,6 @@ public class ProxyFactory {
                 Class<?>[] interfaces ： 真实对象所实现的接口，代理模式真实对象和代理对象实现相同的接口
                 InvocationHandler h ： 代理对象的调用处理程序
          */
-        SellTickets sellTickets = (SellTickets) Proxy.newProxyInstance(station.getClass().getClassLoader(),
                 station.getClass().getInterfaces(),
                 new InvocationHandler() {
                     /*
@@ -3089,7 +3088,7 @@ public class Client {
 
 ### 5.3.5 JDK源码解析
 
-IO流中的包装类使用到了装饰者模式。BufferedInputStream，BufferedOutputStream，BufferedReader，BufferedWriter。
+IO流中的包装类使用到了装饰者模式。BuffenputStream，BufferedOutputStream，BufferedReader，BufferedWriter。
 
 我们以BufferedWriter举例来说明，先看看如何使用BufferedWriter
 
