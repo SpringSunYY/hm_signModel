@@ -3,7 +3,7 @@ package com.yy.pattern.proxy.cglib_proxy;
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description:
+ * @Description: 代理模式
  * @Author: YY
  */
 public class Client {

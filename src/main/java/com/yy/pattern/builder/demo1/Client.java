@@ -3,7 +3,7 @@ package com.yy.pattern.builder.demo1;
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description:  * @Author: YY
+ * @Description: 创建者模式
  * @Author: YY
  */
 public class Client {

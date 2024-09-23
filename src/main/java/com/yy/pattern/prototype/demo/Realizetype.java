@@ -3,7 +3,7 @@ package com.yy.pattern.prototype.demo;
 /**
  * @version v1.0
  * @ClassName: Realizetype
- * @Description:
+ * @Description: 原型模式
  * @Author:  YY
  */
 public class Realizetype implements Cloneable {

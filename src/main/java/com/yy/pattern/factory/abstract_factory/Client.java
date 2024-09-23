@@ -3,7 +3,7 @@ package com.yy.pattern.factory.abstract_factory;
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description: 
+ * @Description: 工厂模式
  * @Author: YY
  */
 public class Client {
