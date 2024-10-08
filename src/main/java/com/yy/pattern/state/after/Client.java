@@ -3,7 +3,7 @@ package com.yy.pattern.state.after;
 /**
  * @version v1.0
  * @ClassName: Client
- * @Description: TODO(一句话描述该类的功能)
+ * @Description: 状态模式
  * @Author: YY
  */
 public class Client {
